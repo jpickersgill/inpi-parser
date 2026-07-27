@@ -1,0 +1,23 @@
+# Downloaded and generated data
+/patent_downloads/
+/patent_xml/
+/patent_outputs/
+/audit_outputs/
+
+# Credentials
+.env
+
+# Python-generated files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS files
+.DS_Store
+
+# VS Code personal settings
+.vscode/
